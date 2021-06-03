@@ -4,7 +4,7 @@
 [logo]: https://github.com/Maciejowski2006/Unity_SliderPlus/blob/master/Images/Slider%2B.png "Slider+"
 
 ## About this project
-Slider plus is extension for Unity's default slider. Slider+ revamps *Whole Numbers* option, adds animations, and smooth move.
+Slider+ is extension for Unity's default slider. Slider+ revamps *Whole Numbers* option, adds animations, and smooth move.
 
 ## Tweening Engines
 Slider+ requires one of the tweening engines to be imported in order to use animations. If you know any other tweening engine that isn't on the list, please consider contributing.
