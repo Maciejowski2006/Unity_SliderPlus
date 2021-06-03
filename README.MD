@@ -1,7 +1,7 @@
 # Slider+
-![alt text][logo]
+![logo]
 
-[logo]: https://github.com/Maciejowski2006/Unity_SliderPlus/Images/Slider+.png "Slider+"
+[logo]: https://github.com/Maciejowski2006/Unity_SliderPlus/blob/master/Images/Slider%2B.png "Slider+"
 
 ## About this project
 Slider plus is extension for Unity's default slider. Slider+ revamps *Whole Numbers* option, adds animations, and smooth move.
