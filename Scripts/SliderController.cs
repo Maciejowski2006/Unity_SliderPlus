@@ -2,8 +2,8 @@
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-//Tweening Engines(Animations)      To use your preferred Tweening Engine simply uncomment appropriate line and comment default one.
-using DG.Tweening; //DOTween
+//Tweening Engines(Animations)      To use your preferred Tweening Engine simply uncomment appropriate line.
+//using DG.Tweening; //DOTween
 //using ... //LeanTween
 //using ... //iTween
 [RequireComponent(typeof(EventTrigger))]
@@ -44,7 +44,7 @@ public class SliderController : MonoBehaviour
         if (enableAnimations)
         {
             //Again, Tweening Engines      To use your preferred Tweening Engine simply uncomment appropriate line and comment default one.
-            slider.DOValue(endValue, duration).SetEase(Ease.InOutCubic); //DOTween
+            //slider.DOValue(endValue, duration).SetEase(Ease.InOutCubic); //DOTween
             //slider. ... //LeanTween
             //slider. ... //iTween
         }
